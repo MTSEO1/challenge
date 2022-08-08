@@ -1,0 +1,12 @@
+.incert {
+  margin-bottom: 30px;
+}
+
+.guess {
+  margin-bottom: 30px;
+}
+
+#result {
+  font-size: 30px;
+  font-weight: 700;
+}
